@@ -1,1 +1,1 @@
-<source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/78/cb/dd/78cbddf0-822c-a20a-9358-299404f6f7c1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp 1x, https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/78/cb/dd/78cbddf0-822c-a20a-9358-299404f6f7c1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp 2x" media="(min-width: 1069px)" type="image/webp">
+<img src="https://i.ibb.co/bv14TGG/Screen-Shot-2021-03-01-at-5-54-39-PM.png"></img>
